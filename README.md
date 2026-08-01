@@ -28,3 +28,5 @@
 ---
 
 > It's a long way to the top.
+
+![stats](https://github-readme-stats.vercel.app/api?username=shiker1996&show_icons=true)
