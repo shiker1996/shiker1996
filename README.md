@@ -7,7 +7,7 @@
 
 - **[见字](https://github.com/shiker1996/wechat-newsroom-workbench)** — 本地优先的中文公众号编辑工作台：
   从素材采集、内容编辑到图文排版的一站式工具链，让公众号生产流程跑在本地。
-- **[enc-encryp](https://github.com/shiker1996/enc-encrypt)** — IDEA 插件，
+- **[enc-encrypt](https://github.com/shiker1996/enc-encrypt)** — IDEA 插件，
   为 Spring Boot 项目中的 Jasypt 加密配置提供加解密支持，少敲命令，多点两下。
 
 ## 🛠 技术栈
