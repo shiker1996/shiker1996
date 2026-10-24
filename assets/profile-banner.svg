@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="22" x2="1110" y2="366" gradientUnits="userSpaceOnUse"><stop stop-color="#101827"/><stop offset=".55" stop-color="#14263A"/><stop offset="1" stop-color="#102D35"/></linearGradient>
+    <linearGradient id="glow" x1="803" y1="59" x2="1084" y2="315" gradientUnits="userSpaceOnUse"><stop stop-color="#61E6CF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".08"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="42"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1022" cy="102" r="118" fill="#43D9C2" fill-opacity=".15" filter="url(#blur)"/>
+  <circle cx="1100" cy="290" r="100" fill="#5797F5" fill-opacity=".15" filter="url(#blur)"/>
+  <path d="M746 0v105h80v44h75v-37h81v67h74v-55h144" stroke="url(#glow)" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M722 360v-72h105v-42h57v27h89v-65h72v34h155" stroke="url(#glow)" stroke-opacity=".38" stroke-width="2"/>
+  <g stroke="url(#glow)" stroke-width="2"><circle cx="826" cy="105" r="5" fill="#61E6CF"/><circle cx="982" cy="112" r="5" fill="#61E6CF"/><circle cx="1056" cy="290" r="5" fill="#60A5FA"/><circle cx="973" cy="273" r="5" fill="#60A5FA"/></g>
+  <rect x="865" y="128" width="206" height="102" rx="18" fill="#0B1522" fill-opacity=".72" stroke="#8CEBDD" stroke-opacity=".55"/>
+  <rect x="884" y="151" width="168" height="55" rx="10" stroke="#D9F4F0" stroke-opacity=".76" stroke-width="2"/>
+  <rect x="1054" y="168" width="7" height="21" rx="3.5" fill="#8CEBDD"/>
+  <rect x="891" y="158" width="122" height="41" rx="5" fill="url(#glow)"/>
+  <text x="884" y="253" fill="#B7C9D8" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="13" letter-spacing="2">SMALL TOOLS, LESS REPETITION</text>
+  <text x="78" y="139" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="7">SHIKER</text>
+  <rect x="79" y="163" width="46" height="3" rx="1.5" fill="url(#glow)"/>
+  <text x="76" y="225" fill="#F8FAFC" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="39" font-weight="700">把重复劳动做成工具。</text>
+  <text x="79" y="267" fill="#B7C9D8" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="19">后端工程师 · 业余造轮子</text>
+</svg>
