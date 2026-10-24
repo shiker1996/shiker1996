@@ -27,7 +27,7 @@
 | [见字](https://github.com/shiker1996/wechat-newsroom-workbench) | 本地优先的公众号编辑工作台：采集 → 成稿 → 排版，全链路本机完成 |
 | [enc-encrypt](https://github.com/shiker1996/enc-encrypt) | IDEA 插件，Spring Boot Jasypt 加密配置的可视化加解密 |
 | [LogiBattery](https://github.com/shiker1996/logi-battery) | Windows 键鼠电量面板，显示兼容 Logitech HID++ 设备电量并提供低电量提醒 |
-| [stop-pay-bilibili](https://github.com/shiker1996/stop-pay-bilibili) | 浏览器插件，在 B 站屏蔽直播入口，还你干净的视频体验 |
+| [stop-live-bilibili](https://github.com/shiker1996/stop-live-bilibili) | 浏览器插件，在 B 站屏蔽直播入口，还你干净的视频体验 |
 
 ---
 
